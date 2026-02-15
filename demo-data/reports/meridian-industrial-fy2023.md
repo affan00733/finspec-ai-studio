@@ -1,0 +1,84 @@
+# Meridian Industrial — FY2023 Annual Report
+
+> Synthetic fictional report for FinSpec AI Studio demo.
+
+# Meridian Industrial Annual Report 2023
+
+Fiscal Year 2023 - Meridian Industrial (MRDN) - Sector: Industrial Manufacturing
+
+Fictional European maker of precision industrial components. All companies, people and figures in this document are fictional and were generated for software demonstration.
+
+All amounts are expressed in EUR thousands unless otherwise stated. The fiscal year ended 31 December 2023.
+
+## Management's Discussion and Analysis
+
+Net sales increased 0.3% to €3,196.9 million in fiscal 2023, from €3,187.4 million in 2022.
+
+Operating income margin was 10.5% for fiscal 2023, reflecting cost discipline across the group.
+
+Segment net sales from Division A was €796.7 million and Division B contributed €1,034.0 million in fiscal 2023.
+
+In fiscal 2022, Net sales was €3,187.4 million, which provides the comparison base for this year.
+
+Management expects Net sales of €3,324.8 million in fiscal 2024; this guidance is a forward-looking statement and not a reported result.
+
+Adjusted EBITDA was €661.3 million in fiscal 2023; adjusted measures exclude restructuring and one-off items and are not comparable with reported EBITDA.
+
+Green capital expenditure was not separately disclosed for fiscal 2023.
+
+## Consolidated Income Statement
+
+Table 1: Consolidated income statement (EUR thousands)
+
+| Line item | FY2023 | FY2022 | FY2021 |
+|---|---|---|---|
+| Net sales | 3,196,935 | 3,187,380 | 3,100,000 |
+| Segment revenue (Division A) | 796,715 | 734,542 | 691,265 |
+| Segment revenue (Division B) | 1,034,039 | 983,984 | 975,880 |
+| Operating income | 335,292 | 315,603 | 324,940 |
+| Research and development | 59,111 | n/a | 57,362 |
+
+## EBITDA Reconciliation
+
+Table 2: EBITDA reconciliation (EUR thousands)
+
+| Measure | FY2023 | FY2022 | FY2021 |
+|---|---|---|---|
+| Operating income | 335,292 | 315,603 | 324,940 |
+| Depreciation and amortization | 262,105 | 251,179 | 264,074 |
+| EBITDA | 597,397 | 566,782 | 589,014 |
+| Adjusted EBITDA | 661,280 | 631,886 | 652,946 |
+
+## Consolidated Balance Sheet
+
+Table 3: Consolidated balance sheet (EUR thousands)
+
+| Line item | FY2023 | FY2022 | FY2021 |
+|---|---|---|---|
+| Total assets | 6,769,605 | 7,171,458 | 6,586,446 |
+| Total liabilities | 3,706,651 | 3,640,766 | 3,357,800 |
+| Total liabilities and equity | 6,769,605 | 7,171,458 | 6,586,446 |
+
+## Cash Flow and Capital Expenditure
+
+Table 4: Capital expenditure (EUR thousands)
+
+| Cash flow item | FY2023 | FY2022 | FY2021 |
+|---|---|---|---|
+| Capital expenditure | 369,092 | 362,379 | 333,962 |
+| Green capital expenditure | n/a | 79,973 | 70,085 |
+
+## Sustainability and Emissions
+
+Table 5: Greenhouse gas emissions (tCO2e)
+
+| Metric | FY2023 | FY2022 | FY2021 |
+|---|---|---|---|
+| Scope 1 emissions | 1,260,642 | 1,169,255 | 1,290,878 |
+| Scope 2 emissions (location-based) | 407,906 | 425,619 | 457,441 |
+| Scope 2 emissions (market-based) | 272,476 | 302,760 | 280,576 |
+
+## Risk Factors
+
+Changes in commodity prices, regulation and demand could affect net sales and profitability. See Table 1 and Table 2 for the reported figures.
+

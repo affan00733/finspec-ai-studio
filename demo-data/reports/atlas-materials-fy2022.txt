@@ -1,0 +1,75 @@
+# Atlas Materials Annual Report 2022
+
+Fiscal Year 2022 - Atlas Materials (ATLS) - Sector: Basic Materials
+
+Fictional producer of cement, aggregates and specialty chemicals. All companies, people and figures in this document are fictional and were generated for software demonstration.
+
+All amounts are expressed in USD billions unless otherwise stated. The fiscal year ended 31 December 2022.
+
+## Management's Discussion and Analysis
+
+Operating revenue increased 7.6% to $5.165 billion in fiscal 2022, from $4.800 billion in 2021.
+
+Operating income margin was 9.6% for fiscal 2022, reflecting cost discipline across the group.
+
+Segment operating revenue from Division A was $1.753 billion and Division B contributed $1.986 billion in fiscal 2022.
+
+In fiscal 2021, Operating revenue was $4.800 billion, which provides the comparison base for this year.
+
+Management expects Operating revenue of $5.372 billion in fiscal 2023; this guidance is a forward-looking statement and not a reported result.
+
+Adjusted EBITDA was $0.926 billion in fiscal 2022; adjusted measures exclude restructuring and one-off items and are not comparable with reported EBITDA.
+
+Green capital expenditure was $0.065 billion in fiscal 2022, directed to low-carbon assets and efficiency projects.
+
+## Consolidated Income Statement
+
+Table 1: Consolidated income statement (USD billions)
+
+Line item                       FY2021    FY2022
+Operating revenue                4.800     5.165
+Segment revenue (Division A)     1.544     1.753
+Segment revenue (Division B)     1.777     1.986
+Operating income                 0.494     0.495
+Research and development         0.135     0.145
+
+## EBITDA Reconciliation
+
+Table 2: EBITDA reconciliation (USD billions)
+
+Measure                          FY2021    FY2022
+Operating income                  0.494     0.495
+Depreciation and amortization     0.332     0.373
+EBITDA                            0.826       n/a
+Adjusted EBITDA                   0.877     0.926
+
+## Consolidated Balance Sheet
+
+Table 3: Consolidated balance sheet (USD billions)
+
+Line item                       FY2021    FY2022
+Total assets                    10.637    12.114
+Total liabilities                5.729     6.382
+Total liabilities and equity    10.637    12.114
+
+## Cash Flow and Capital Expenditure
+
+Table 4: Capital expenditure (USD billions)
+
+Cash flow item               FY2021    FY2022
+Capital expenditure           0.266     0.274
+Green capital expenditure     0.067     0.065
+
+## Sustainability and Emissions
+
+Table 5: Greenhouse gas emissions (million tCO2e)
+
+Metric                                FY2021    FY2022
+Scope 1 emissions                      5.702     5.748
+Scope 2 emissions (location-based)     1.716       n/a
+Scope 2 emissions (market-based)       1.196     1.055
+
+## Risk Factors
+
+Changes in commodity prices, regulation and demand could affect operating revenue and profitability. See Table 1 and Table 2 for the reported figures.
+

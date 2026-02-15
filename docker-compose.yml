@@ -1,0 +1,29 @@
+# Optional local stack for the full Django backend.
+# The public Netlify demo does NOT require Docker or this file.
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      DJANGO_DEBUG: "true"
+      DJANGO_SECRET_KEY: local-dev-only
+      CORS_ALLOWED_ORIGINS: http://localhost:5173,http://127.0.0.1:5173
+      FINSPEC_CELERY_ENABLED: "false"
+    volumes:
+      - ./backend:/app/backend
+      - ./demo-data:/app/demo-data
+    command: >
+      sh -c "cd /app/backend &&
+             python manage.py migrate &&
+             python manage.py seed_demo &&
+             python manage.py runserver 0.0.0.0:8000"
+
+  # Optional — enable with: docker compose --profile async up
+  redis:
+    image: redis:7-alpine
+    profiles: ["async"]
+    ports:
+      - "6379:6379"

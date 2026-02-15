@@ -1,0 +1,110 @@
+[
+  {
+    "company": "Northstar Energy",
+    "fiscal_year": 2022,
+    "files": [
+      "demo-data/reports/northstar-energy-fy2022.md",
+      "demo-data/reports/northstar-energy-fy2022.html",
+      "demo-data/reports/northstar-energy-fy2022.txt"
+    ]
+  },
+  {
+    "company": "Northstar Energy",
+    "fiscal_year": 2023,
+    "files": [
+      "demo-data/reports/northstar-energy-fy2023.md",
+      "demo-data/reports/northstar-energy-fy2023.html",
+      "demo-data/reports/northstar-energy-fy2023.txt"
+    ]
+  },
+  {
+    "company": "Northstar Energy",
+    "fiscal_year": 2024,
+    "files": [
+      "demo-data/reports/northstar-energy-fy2024.md",
+      "demo-data/reports/northstar-energy-fy2024.html",
+      "demo-data/reports/northstar-energy-fy2024.txt"
+    ]
+  },
+  {
+    "company": "Meridian Industrial",
+    "fiscal_year": 2022,
+    "files": [
+      "demo-data/reports/meridian-industrial-fy2022.md",
+      "demo-data/reports/meridian-industrial-fy2022.html",
+      "demo-data/reports/meridian-industrial-fy2022.txt"
+    ]
+  },
+  {
+    "company": "Meridian Industrial",
+    "fiscal_year": 2023,
+    "files": [
+      "demo-data/reports/meridian-industrial-fy2023.md",
+      "demo-data/reports/meridian-industrial-fy2023.html",
+      "demo-data/reports/meridian-industrial-fy2023.txt"
+    ]
+  },
+  {
+    "company": "Meridian Industrial",
+    "fiscal_year": 2024,
+    "files": [
+      "demo-data/reports/meridian-industrial-fy2024.md",
+      "demo-data/reports/meridian-industrial-fy2024.html",
+      "demo-data/reports/meridian-industrial-fy2024.txt"
+    ]
+  },
+  {
+    "company": "Cascade Retail",
+    "fiscal_year": 2022,
+    "files": [
+      "demo-data/reports/cascade-retail-fy2022.md",
+      "demo-data/reports/cascade-retail-fy2022.html",
+      "demo-data/reports/cascade-retail-fy2022.txt"
+    ]
+  },
+  {
+    "company": "Cascade Retail",
+    "fiscal_year": 2023,
+    "files": [
+      "demo-data/reports/cascade-retail-fy2023.md",
+      "demo-data/reports/cascade-retail-fy2023.html",
+      "demo-data/reports/cascade-retail-fy2023.txt"
+    ]
+  },
+  {
+    "company": "Cascade Retail",
+    "fiscal_year": 2024,
+    "files": [
+      "demo-data/reports/cascade-retail-fy2024.md",
+      "demo-data/reports/cascade-retail-fy2024.html",
+      "demo-data/reports/cascade-retail-fy2024.txt"
+    ]
+  },
+  {
+    "company": "Atlas Materials",
+    "fiscal_year": 2022,
+    "files": [
+      "demo-data/reports/atlas-materials-fy2022.md",
+      "demo-data/reports/atlas-materials-fy2022.html",
+      "demo-data/reports/atlas-materials-fy2022.txt"
+    ]
+  },
+  {
+    "company": "Atlas Materials",
+    "fiscal_year": 2023,
+    "files": [
+      "demo-data/reports/atlas-materials-fy2023.md",
+      "demo-data/reports/atlas-materials-fy2023.html",
+      "demo-data/reports/atlas-materials-fy2023.txt"
+    ]
+  },
+  {
+    "company": "Atlas Materials",
+    "fiscal_year": 2024,
+    "files": [
+      "demo-data/reports/atlas-materials-fy2024.md",
+      "demo-data/reports/atlas-materials-fy2024.html",
+      "demo-data/reports/atlas-materials-fy2024.txt"
+    ]
+  }
+]

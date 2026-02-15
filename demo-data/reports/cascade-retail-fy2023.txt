@@ -1,0 +1,78 @@
+# Cascade Retail Annual Report 2023
+
+Fiscal Year 2023 - Cascade Retail (CSCD) - Sector: Consumer Retail
+
+Fictional multi-format retailer operating across the United Kingdom. All companies, people and figures in this document are fictional and were generated for software demonstration.
+
+All amounts are expressed in GBP millions unless otherwise stated. The fiscal year ended 31 December 2023.
+
+## Management's Discussion and Analysis
+
+Turnover increased 4.1% to £6,254.9 million in fiscal 2023, from £6,007.3 million in 2022.
+
+Operating income margin was 19.0% for fiscal 2023, reflecting cost discipline across the group.
+
+Segment turnover from Division A was £1,589.2 million and Division B contributed £2,206.4 million in fiscal 2023.
+
+In fiscal 2022, Turnover was £6,007.3 million, which provides the comparison base for this year.
+
+Management expects Turnover of £6,505.1 million in fiscal 2024; this guidance is a forward-looking statement and not a reported result.
+
+Adjusted EBITDA was £1,748.7 million in fiscal 2023; adjusted measures exclude restructuring and one-off items and are not comparable with reported EBITDA.
+
+Green capital expenditure was £149.9 million in fiscal 2023, directed to low-carbon assets and efficiency projects.
+
+## Consolidated Income Statement
+
+Table 1: Consolidated income statement (GBP millions)
+
+| Line item | Note | FY2023 | FY2022 |
+|---|---|---|---|
+| Turnover | 3 | 6,254.9 | 6,007.3 |
+| Segment revenue (Division A) |  | 1,589.2 | 1,552.4 |
+| Segment revenue (Division B) |  | 2,206.4 | 2,147.5 |
+| Operating income | 4 | 1,190.4 | 1,054.9 |
+| Research and development |  | n/a | n/a |
+
+## EBITDA Reconciliation
+
+Table 2: EBITDA reconciliation (GBP millions)
+
+| Measure | Note | FY2023 | FY2022 |
+|---|---|---|---|
+| Operating income |  | 1,190.4 | 1,054.9 |
+| Depreciation and amortization |  | 460.7 | 463.1 |
+| EBITDA |  | 1,651.1 | 1,518.0 |
+| Adjusted EBITDA |  | 1,748.7 | 1,605.7 |
+
+## Consolidated Balance Sheet
+
+Table 3: Consolidated balance sheet (GBP millions)
+
+| Line item | Note | FY2023 | FY2022 |
+|---|---|---|---|
+| Total assets |  | 12,268.4 | 11,191.5 |
+| Total liabilities |  | 6,988.8 | 6,536.2 |
+| Total liabilities and equity |  | 12,268.4 | 11,191.5 |
+
+## Cash Flow and Capital Expenditure
+
+Table 4: Capital expenditure (GBP millions)
+
+| Cash flow item | Note | FY2023 | FY2022 |
+|---|---|---|---|
+| Purchase of property, plant and equipment |  | (469.4) | (455.6) |
+| Green capital expenditure |  | (149.9) | n/a |
+
+Capital expenditure is shown as a cash outflow, in parentheses.
+
+## Sustainability and Emissions
+
+In fiscal 2023, Scope 1 emissions were 88.8 ktCO2e. Scope 2 emissions (location-based) were 132.2 ktCO2e. Scope 2 emissions (market-based) were 76.7 ktCO2e, which are not used for regulatory comparison.
+
+In fiscal 2022, Scope 1 emissions were 96.3 ktCO2e.
+
+## Risk Factors
+
+Changes in commodity prices, regulation and demand could affect turnover and profitability. See Table 1 and Table 2 for the reported figures.
+

@@ -1,0 +1,131 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-serif: 'Source Serif 4', ui-serif, Georgia, 'Times New Roman', serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
+
+  --color-canvas: #f5f6f9;
+  --color-surface: #ffffff;
+  --color-sunken: #eef0f5;
+  --color-ink: #0f172a;
+  --color-ink-2: #334155;
+  --color-muted: #64748b;
+  --color-faint: #94a3b8;
+  --color-line: #e2e6ee;
+  --color-line-strong: #cdd4e1;
+
+  --color-brand-50: #eef2ff;
+  --color-brand-100: #e0e7ff;
+  --color-brand-200: #c7d2fe;
+  --color-brand-300: #a5b4fc;
+  --color-brand-500: #4863e0;
+  --color-brand-600: #3149c4;
+  --color-brand-700: #243bb5;
+  --color-brand-800: #1e2f8f;
+  --color-brand-900: #17225f;
+
+  --color-ok: #0f7b53;
+  --color-ok-bg: #e7f6ef;
+  --color-warn: #a35a00;
+  --color-warn-bg: #fdf3e1;
+  --color-bad: #b4233a;
+  --color-bad-bg: #fdecef;
+  --color-info-bg: #eaf1ff;
+
+  --shadow-card: 0 1px 2px rgb(15 23 42 / 0.04), 0 1px 1px rgb(15 23 42 / 0.03);
+  --shadow-pop: 0 12px 32px -8px rgb(15 23 42 / 0.18), 0 2px 6px rgb(15 23 42 / 0.06);
+}
+
+:root {
+  color-scheme: light;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  background: var(--color-canvas);
+  color: var(--color-ink);
+  font-size: 14px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: 'ss01', 'cv11';
+}
+
+h1,
+h2,
+h3 {
+  letter-spacing: -0.01em;
+}
+
+.font-display {
+  font-family: var(--font-serif);
+  font-optical-sizing: auto;
+  letter-spacing: -0.015em;
+}
+
+.tnum {
+  font-variant-numeric: tabular-nums;
+}
+
+::selection {
+  background: var(--color-brand-200);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-brand-500);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* evidence highlighting */
+mark.ev {
+  background: #fff1b8;
+  color: inherit;
+  border-radius: 3px;
+  box-shadow: 0 0 0 2px #fff1b8;
+}
+mark.ev-primary {
+  background: #cfe0ff;
+  box-shadow: 0 0 0 2px #cfe0ff;
+}
+mark.ev-conflict {
+  background: #ffd9de;
+  box-shadow: 0 0 0 2px #ffd9de;
+}
+
+.scroll-thin::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+.scroll-thin::-webkit-scrollbar-thumb {
+  background: var(--color-line-strong);
+  border-radius: 8px;
+}
+
+/* subtle grid texture used on the landing hero */
+.bg-grid {
+  background-image:
+    linear-gradient(to right, rgb(36 59 181 / 0.06) 1px, transparent 1px),
+    linear-gradient(to bottom, rgb(36 59 181 / 0.06) 1px, transparent 1px);
+  background-size: 36px 36px;
+  mask-image: radial-gradient(ellipse 70% 60% at 50% 30%, black, transparent 75%);
+}
+
+.react-flow__attribution {
+  display: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

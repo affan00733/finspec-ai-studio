@@ -1,0 +1,24 @@
+# FinSpec AI Studio - Python dependencies (project root).
+# Install:  python -m venv .venv && source .venv/bin/activate && pip install -r requirements.txt
+
+# --- Web / API
+Django>=5.2,<5.3
+djangorestframework>=3.15
+django-cors-headers>=4.4
+python-dotenv>=1.0
+
+# --- Document parsing
+beautifulsoup4>=4.12
+lxml>=5.0
+pypdf>=4.0
+
+# --- LLM providers (only used when explicitly selected; mock/offline is the default)
+openai>=1.66
+
+# --- Optional background execution (FINSPEC_CELERY_ENABLED=true)
+celery>=5.4
+redis>=5.0
+
+# --- Tests
+pytest>=8.0
+pytest-django>=4.8
