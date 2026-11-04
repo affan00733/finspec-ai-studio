@@ -20,10 +20,9 @@ This is an independent reconstruction inspired by production financial-document 
 - OpenAI / Azure integration (backend-only)  
 - Offline interactive demo for recruiters  
 
-## Links (fill after publish)
-- Live Demo: _(add Netlify URL after deploy)_  
-- GitHub: _(add repo URL after push)_  
+## Links
+- Live Demo: https://finspec-ai-studio.netlify.app  
+- GitHub: https://github.com/affan00733/finspec-ai-studio  
 - Architecture: `/docs/ARCHITECTURE.md`  
 - Documentation: `/docs/`  
-
-Do not invent live URLs before they exist.
+- Reproducibility: `/docs/REPRODUCIBILITY.md`

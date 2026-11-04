@@ -1,8 +1,9 @@
 # Netlify config: public demo runs entirely in the browser (no backend required).
+# Paths are relative to the repository root (avoids base/publish path mismatches).
 [build]
-  base = "frontend"
   command = "npm ci && npm run build"
-  publish = "dist"
+  publish = "frontend/dist"
+  base = "frontend"
 
 [build.environment]
   NODE_VERSION = "22"

@@ -153,7 +153,7 @@ CI runs both suites via GitHub Actions (`.github/workflows/ci.yml`).
 ## Live demo
 
 - **GitHub:** https://github.com/affan00733/finspec-ai-studio  
-- **Live demo (Netlify):** _URL added after deploy_ — open to everyone, no login, no API keys  
+- **Live demo (Netlify):** https://finspec-ai-studio.netlify.app — open to everyone, no login, no API keys  
 
 Anyone can reproduce the same demo locally with [docs/REPRODUCIBILITY.md](docs/REPRODUCIBILITY.md).
 

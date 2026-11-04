@@ -117,6 +117,7 @@ Paid failures must **not** silently fall back to mock output.
 
 ## 7. Public Netlify demo
 
+- **Live URL:** https://finspec-ai-studio.netlify.app  
 - Config: `netlify.toml` (`base=frontend`, `npm ci && npm run build`, SPA redirect)  
 - No backend URL or API keys in Netlify for the public site  
 - Anyone with the live URL can use the demo without an account  
