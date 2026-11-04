@@ -150,10 +150,17 @@ CI runs both suites via GitHub Actions (`.github/workflows/ci.yml`).
 
 ---
 
+## Live demo
+
+- **GitHub:** https://github.com/affan00733/finspec-ai-studio  
+- **Live demo (Netlify):** _URL added after deploy_ — open to everyone, no login, no API keys  
+
+Anyone can reproduce the same demo locally with [docs/REPRODUCIBILITY.md](docs/REPRODUCIBILITY.md).
+
 ## Deploy the free public demo (Netlify)
 
-1. Push this repo to GitHub (when you are ready).  
-2. In Netlify: **Add new site → Import from Git**.  
+1. Repo: https://github.com/affan00733/finspec-ai-studio  
+2. In Netlify: **Add new site → Import from Git** (or CLI deploy).  
 3. Build settings are already in `netlify.toml` (`base=frontend`, publish `dist`).  
 4. Do **not** set OpenAI/Azure keys in Netlify env vars for the public demo.  
 5. Optional: set `VITE_API_URL` only if you also host a secured Django backend.
@@ -186,6 +193,7 @@ Select the corresponding agent/provider in Settings. Failed paid calls do **not*
 
 | Doc | Topic |
 |-----|--------|
+| [REPRODUCIBILITY.md](docs/REPRODUCIBILITY.md) | Clone, verify, regenerate data, acceptance checks |
 | [ARCHITECTURE.md](docs/ARCHITECTURE.md) | System design |
 | [RAG_DESIGN.md](docs/RAG_DESIGN.md) | Hybrid & relationship-aware retrieval |
 | [AGENT_WORKFLOW.md](docs/AGENT_WORKFLOW.md) | Logical pipeline stages |
